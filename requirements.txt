@@ -9,6 +9,7 @@ executing==2.2.1
 fastjsonschema==2.21.2
 fonttools==4.62.1
 gurobipy==13.0.1
+ImageIO==2.37.3
 ipykernel==7.2.0
 ipython==9.12.0
 ipython_pygments_lexers==1.1.1
